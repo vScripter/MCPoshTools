@@ -12,7 +12,7 @@
 RootModule = 'MCPoshTools.psm1'
 
 # Version number of this module.
-ModuleVersion = '3.1.3.0'
+ModuleVersion = '4.0.0.0'
 
 # Supported PSEditions
 #CompatiblePSEditions = @('Desktop')
@@ -79,7 +79,6 @@ FunctionsToExport = @(
     'Export-Credential',
     'Get-AgedItem',
     'Get-CIDRNotation',
-    'Get-CSLocalGroupMember',
     'Get-ComputerInfo',
     'Get-CurrentVcenterServer',
     'Get-DatastoreInventory',
@@ -90,6 +89,7 @@ FunctionsToExport = @(
     'Get-ExplorerFolderOption',
     'Get-JumpServer',
     'Get-NamedPipes',
+    'Get-MCLocalGroupMember',
     'Get-NetworkConfiguration',
     'Get-PowerShellVersion',
     'Get-ProcessOwner',
