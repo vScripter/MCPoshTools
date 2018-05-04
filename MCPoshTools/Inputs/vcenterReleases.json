@@ -1,0 +1,1162 @@
+{
+    "timestamp": 1507137210,
+    "jsonUpdatedTime": "Wed, 04 Oct 17 19:13:30 +0200",
+    "data": {
+        "vcenterReleases": [
+            {
+                "build": "6671409",
+                "fullName": "vCenter Server Appliance 6.5 Update 1a",
+                "releaseDate": "2017-09-21",
+                "osType": "linux",
+                "releaseNotes": "https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vcenter-server-appliance-photonos-security-patches.html"
+            },
+            {
+                "build": "6521191",
+                "fullName": "vCenter Server Appliance 5.5 Update 3f",
+                "releaseDate": "2017-09-14",
+                "osType": "linux",
+                "releaseNotes": "https://docs.vmware.com/en/VMware-vSphere/5.5/rn/vsphere-vcenter-server-55u3f-release-notes.html"
+            },
+            {
+                "build": "6516310",
+                "fullName": "vCenter Server 5.5 Update 3f",
+                "releaseDate": "2017-09-14",
+                "installerBuild": "6520252",
+                "osType": "windows",
+                "releaseNotes": "https://docs.vmware.com/en/VMware-vSphere/5.5/rn/vsphere-vcenter-server-55u3f-release-notes.html"
+            },
+            {
+                "build": "5973321",
+                "fullName": "vCenter Server 6.5 Update 1",
+                "releaseDate": "2017-07-27",
+                "osType": "windows",
+                "releaseNotes": "https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-651-release-notes.html"
+            },
+            {
+                "build": "5973321",
+                "fullName": "vCenter Server Appliance 6.5 Update 1",
+                "releaseDate": "2017-07-27",
+                "osType": "linux",
+                "releaseNotes": "https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-651-release-notes.html"
+            },
+            {
+                "build": "5705665",
+                "fullName": "vCenter Server 6.5.0e",
+                "releaseDate": "2017-06-15",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650e-release-notes.html"
+            },
+            {
+                "build": "5705665",
+                "fullName": "vCenter Server Appliance 6.5.0e",
+                "releaseDate": "2017-06-15",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650e-release-notes.html"
+            },
+            {
+                "build": "5326079",
+                "fullName": "vCenter Server 6.0 Update 3b",
+                "releaseDate": "2017-04-13",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u3b-release-notes.html"
+            },
+            {
+                "build": "5318198",
+                "fullName": "vCenter Server Appliance 6.0 Update 3b",
+                "releaseDate": "2017-04-13",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u3b-release-notes.html"
+            },
+            {
+                "build": "5318154",
+                "fullName": "vCenter Server 6.5.0d",
+                "releaseDate": "2017-04-18",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650d-release-notes.html"
+            },
+            {
+                "build": "5318154",
+                "fullName": "vCenter Server Appliance 6.5.0d",
+                "releaseDate": "2017-04-18",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650d-release-notes.html"
+            },
+            {
+                "build": "5318112",
+                "fullName": "vCenter Server 6.5.0c",
+                "releaseDate": "2017-04-13",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650c-release-notes.html"
+            },
+            {
+                "build": "5318112",
+                "fullName": "vCenter Server Appliance 6.5.0c",
+                "releaseDate": "2017-04-13",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650c-release-notes.html"
+            },
+            {
+                "build": "5183552",
+                "fullName": "vCenter Server Appliance 6.0 Update 3a",
+                "releaseDate": "2017-03-21",
+                "installerBuild": "5202527",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u3a-release-notes.html"
+            },
+            {
+                "build": "5183551",
+                "fullName": "vCenter Server 6.0 Update 3a",
+                "releaseDate": "2017-03-21",
+                "installerBuild": "5202527",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u3a-release-notes.html"
+            },
+            {
+                "build": "5178943",
+                "fullName": "vCenter Server Appliance 6.5.0b",
+                "releaseDate": "2017-03-15",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650b-release-notes.html"
+            },
+            {
+                "build": "5178943",
+                "fullName": "vCenter Server 6.5.0b",
+                "releaseDate": "2017-03-15",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650b-release-notes.html"
+            },
+            {
+                "build": "5112529",
+                "fullName": "vCenter Server Appliance 6.0 Update 3",
+                "releaseDate": "2017-02-24",
+                "installerBuild": "5112506",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u3-release-notes.html"
+            },
+            {
+                "build": "5112527",
+                "fullName": "vCenter Server 6.0 Update 3",
+                "releaseDate": "2017-02-24",
+                "installerBuild": "5112506",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u3-release-notes.html"
+            },
+            {
+                "build": "4944578",
+                "fullName": "vCenter Server 6.5.0a",
+                "releaseDate": "2017-02-02",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650a-release-notes.html"
+            },
+            {
+                "build": "4944578",
+                "fullName": "vCenter Server Appliance 6.5.0a",
+                "releaseDate": "2017-02-02",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-vcenter-server-650a-release-notes.html"
+            },
+            {
+                "build": "4602587",
+                "fullName": "vCenter Server 6.5",
+                "releaseDate": "2016-11-15",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-esxi-vcenter-server-65-release-notes.html"
+            },
+            {
+                "build": "4602587",
+                "fullName": "vCenter Server Appliance 6.5",
+                "releaseDate": "2016-11-15",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/65/vsphere-esxi-vcenter-server-65-release-notes.html"
+            },
+            {
+                "build": "4541948",
+                "fullName": "vCenter Server Appliance 6.0 Update 2a",
+                "releaseDate": "2016-11-22",
+                "installerBuild": "4637290",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u2a-release-notes.html"
+            },
+            {
+                "build": "4541947",
+                "fullName": "vCenter Server 6.0 Update 2a",
+                "releaseDate": "2016-11-22",
+                "installerBuild": "4637290",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u2a-release-notes.html"
+            },
+            {
+                "build": "4180648",
+                "fullName": "vCenter Server Appliance 5.5 Update 3e",
+                "releaseDate": "2016-08-04",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3e-release-notes.html"
+            },
+            {
+                "build": "4180647",
+                "fullName": "vCenter Server 5.5 Update 3e",
+                "releaseDate": "2016-08-04",
+                "installerBuild": "4180646",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3e-release-notes.html"
+            },
+            {
+                "build": "3891027",
+                "fullName": "vCenter Server 5.0 Update 3g",
+                "releaseDate": "2016-06-14",
+                "installerBuild": "3891028",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/50/vsp_vc50_u3g_rel_notes.html"
+            },
+            {
+                "build": "3891026",
+                "fullName": "vCenter Server Appliance 5.0 Update 3g",
+                "releaseDate": "2016-06-14",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/50/vsp_vc50_u3g_rel_notes.html"
+            },
+            {
+                "build": "3868380",
+                "fullName": "vCenter Server Appliance 5.1 Update 3d",
+                "releaseDate": "2016-05-24",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/51/vsphere-vcenter-server-51u3d-release-notes.html"
+            },
+            {
+                "build": "3814779",
+                "fullName": "vCenter Server 5.1 Update 3d",
+                "releaseDate": "2016-05-24",
+                "installerBuild": "3900744",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/51/vsphere-vcenter-server-51u3d-release-notes.html"
+            },
+            {
+                "build": "3730881",
+                "fullName": "vCenter Server Appliance 5.5 Update 3d",
+                "releaseDate": "2016-04-14",
+                "installerBuild": "3711164",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3d-release-notes.html"
+            },
+            {
+                "build": "3721164",
+                "fullName": "vCenter Server 5.5 Update 3d",
+                "releaseDate": "2016-04-14",
+                "installerBuild": "3730491",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3d-release-notes.html"
+            },
+            {
+                "build": "3660015",
+                "fullName": "vCenter Server Appliance 5.5 Update 3c",
+                "releaseDate": "2016-03-29",
+                "installerBuild": "3660016",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3c-release-notes.html"
+            },
+            {
+                "build": "3634794",
+                "fullName": "vCenter Server Appliance 6.0 Update 2",
+                "releaseDate": "2016-03-15",
+                "installerBuild": "3634788",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u2-release-notes.html"
+            },
+            {
+                "build": "3634793",
+                "fullName": "vCenter Server 6.0 Update 2",
+                "releaseDate": "2016-03-15",
+                "installerBuild": "3634788",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u2-release-notes.html"
+            },
+            {
+                "build": "3630965",
+                "fullName": "vCenter Server Appliance 5.0 Update 3f",
+                "releaseDate": "2016-03-29",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/50/vsp_vc50_u3f_rel_notes.html"
+            },
+            {
+                "build": "3630963",
+                "fullName": "vCenter Server Appliance 5.1 Update 3c",
+                "releaseDate": "2016-03-29",
+                "installerBuild": "3630964",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/51/vsphere-vcenter-server-51u3c-release-notes.html"
+            },
+            {
+                "build": "3339084",
+                "fullName": "vCenter Server Appliance 6.0 Update 1b",
+                "releaseDate": "2016-01-07",
+                "installerBuild": "3343019",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u1b-release-notes.html"
+            },
+            {
+                "build": "3339083",
+                "fullName": "vCenter Server 6.0 Update 1b",
+                "releaseDate": "2016-01-07",
+                "installerBuild": "3343019",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u1b-release-notes.html"
+            },
+            {
+                "build": "3255668",
+                "fullName": "vCenter Server Appliance 5.5 Update 3b",
+                "releaseDate": "2015-12-08",
+                "installerBuild": "3254792",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3b-release-notes.html"
+            },
+            {
+                "build": "3252642",
+                "fullName": "vCenter Server 5.5 Update 3b",
+                "releaseDate": "2015-12-08",
+                "installerBuild": "3254792",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3b-release-notes.html"
+            },
+            {
+                "build": "3154314",
+                "fullName": "vCenter Server Appliance 5.5 Update 3a",
+                "releaseDate": "2015-10-22",
+                "installerBuild": "3154313",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3a-release-notes.html"
+            },
+            {
+                "build": "3142196",
+                "fullName": "vCenter Server 5.5 Update 3a",
+                "releaseDate": "2015-10-22",
+                "installerBuild": "3154313",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3a-release-notes.html"
+            },
+            {
+                "build": "3073237",
+                "fullName": "vCenter Server Appliance 5.0 Update 3e",
+                "releaseDate": "2016-01-06",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/50/vsp_vc50_u3e_rel_notes.html"
+            },
+            {
+                "build": "3073236",
+                "fullName": "vCenter Server 5.0 Update 3e",
+                "releaseDate": "2016-01-06",
+                "installerBuild": "3073234",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/50/vsp_vc50_u3e_rel_notes.html"
+            },
+            {
+                "build": "3072314",
+                "fullName": "vCenter Server Appliance 5.1 Update 3b",
+                "releaseDate": "2015-10-01",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/51/vsphere-vcenter-server-51u3b-release-notes.html"
+            },
+            {
+                "build": "3070521",
+                "fullName": "vCenter Server 5.1 Update 3b",
+                "releaseDate": "2015-10-01",
+                "installerBuild": "3072311",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/51/vsphere-vcenter-server-51u3b-release-notes.html"
+            },
+            {
+                "build": "3018524",
+                "fullName": "vCenter Server 6.0 Update 1",
+                "releaseDate": "2015-09-10",
+                "installerBuild": "3040890",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u1-release-notes.html"
+            },
+            {
+                "build": "3018523",
+                "fullName": "vCenter Server Appliance 6.0 Update 1",
+                "releaseDate": "2015-09-10",
+                "installerBuild": "3040890",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u1-release-notes.html"
+            },
+            {
+                "build": "3000347",
+                "fullName": "vCenter Server Appliance 5.5 Update 3",
+                "releaseDate": "2015-09-16",
+                "installerBuild": "3000346",
+                "osType": "linux",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3-release-notes.html"
+            },
+            {
+                "build": "3000241",
+                "fullName": "vCenter Server 5.5 Update 3",
+                "releaseDate": "2015-09-16",
+                "installerBuild": "3000346",
+                "osType": "windows",
+                "releaseNotes": "http://pubs.vmware.com/Release_Notes/en/vsphere/55/vsphere-vcenter-server-55u3-release-notes.html"
+            },
+            {
+                "build": "2776511",
+                "fullName": "vCenter Server 6.0.0b",
+                "releaseDate": "2015-07-07",
+                "installerBuild": "2800571",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere6/doc/vsphere-vcenter-server-600b-release-notes.html"
+            },
+            {
+                "build": "2776510",
+                "fullName": "vCenter Server Appliance 6.0.0b",
+                "releaseDate": "2015-07-07",
+                "installerBuild": "2800571",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere6/doc/vsphere-vcenter-server-600b-release-notes.html"
+            },
+            {
+                "build": "2670345",
+                "fullName": "vCenter Server Appliance 5.1 Update 3a",
+                "releaseDate": "2015-04-30",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u3a-release-notes.html"
+            },
+            {
+                "build": "2669725",
+                "fullName": "vCenter Server 5.1 Update 3a",
+                "releaseDate": "2015-04-30",
+                "installerBuild": "2670344",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u3a-release-notes.html"
+            },
+            {
+                "build": "2656760",
+                "fullName": "vCenter Server 6.0.0a",
+                "releaseDate": "2015-04-16",
+                "installerBuild": "2656757",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere6/doc/vsphere-vcenter-server-600a-release-notes.html"
+            },
+            {
+                "build": "2656757",
+                "fullName": "vCenter Server Appliance 6.0.0a",
+                "releaseDate": "2015-04-16",
+                "installerBuild": "2656761",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere6/doc/vsphere-vcenter-server-600a-release-notes.html"
+            },
+            {
+                "build": "2656067",
+                "fullName": "vCenter Server 5.0 Update 3d",
+                "releaseDate": "2015-04-30",
+                "installerBuild": "2692807",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u3d_rel_notes.html"
+            },
+            {
+                "build": "2656066",
+                "fullName": "vCenter Server Appliance 5.0 Update 3d",
+                "releaseDate": "2015-04-30",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u3d_rel_notes.html"
+            },
+            {
+                "build": "2646489",
+                "fullName": "vCenter Server Appliance 5.5 Update 2e",
+                "releaseDate": "2015-04-16",
+                "installerBuild": "2646481",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u2e-release-notes.html"
+            },
+            {
+                "build": "2646482",
+                "fullName": "vCenter Server 5.5 Update 2e",
+                "releaseDate": "2015-04-16",
+                "installerBuild": "2646481",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u2e-release-notes.html"
+            },
+            {
+                "build": "2559268",
+                "fullName": "vCenter Server 6.0",
+                "releaseDate": "2015-03-12",
+                "installerBuild": "2562643",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere6/doc/vsphere-esxi-vcenter-server-60-release-notes.html"
+            },
+            {
+                "build": "2559267",
+                "fullName": "vCenter Server Appliance 6.0",
+                "releaseDate": "2015-03-12",
+                "installerBuild": "2562643",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere6/doc/vsphere-esxi-vcenter-server-60-release-notes.html"
+            },
+            {
+                "build": "2442330",
+                "fullName": "vCenter Server Appliance 5.5 Update 2d",
+                "releaseDate": "2015-01-27",
+                "installerBuild": "2442330",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u2d-release-notes.html"
+            },
+            {
+                "build": "2442329",
+                "fullName": "vCenter Server 5.5 Update 2d",
+                "releaseDate": "2015-01-27",
+                "installerBuild": "2442328",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u2d-release-notes.html"
+            },
+            {
+                "build": "2308385",
+                "fullName": "vCenter Server Appliance 5.1 Update 3",
+                "releaseDate": "2014-12-04",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u3-release-notes.html"
+            },
+            {
+                "build": "2306353",
+                "fullName": "vCenter Server 5.1 Update 3",
+                "releaseDate": "2014-12-04",
+                "installerBuild": "2308386",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u3-release-notes.html"
+            },
+            {
+                "build": "2213719",
+                "fullName": "vCenter Server Appliance 5.0 Update 3c",
+                "releaseDate": "2014-11-20",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u3c_rel_notes.html"
+            },
+            {
+                "build": "2212990",
+                "fullName": "vCenter Server Appliance 5.1 Update 2c",
+                "releaseDate": "2014-10-30",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u2c-release-notes.html"
+            },
+            {
+                "build": "2210222",
+                "fullName": "vCenter Server 5.0 Update 3c",
+                "releaseDate": "2014-11-20",
+                "installerBuild": "2215678",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u3c_rel_notes.html"
+            },
+            {
+                "build": "2207772",
+                "fullName": "vCenter Server 5.1 Update 2c",
+                "releaseDate": "2014-10-30",
+                "installerBuild": "2212977",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u2c-release-notes.html"
+            },
+            {
+                "build": "2183111",
+                "fullName": "vCenter Server 5.5 Update 2b",
+                "releaseDate": "2014-10-09",
+                "installerBuild": "2183112",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u2b-release-notes.html"
+            },
+            {
+                "build": "2183109",
+                "fullName": "vCenter Server Appliance 5.5 Update 2b",
+                "releaseDate": "2014-10-09",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u2b-release-notes.html"
+            },
+            {
+                "build": "2170782",
+                "fullName": "vCenter Server Appliance 5.0 Update 3b",
+                "releaseDate": "2014-10-01",
+                "osType": "linux",
+                "releaseNotes": "http://kb.vmware.com/kb/2091017"
+            },
+            {
+                "build": "2170517",
+                "fullName": "vCenter Server Appliance 5.1 Update 2b",
+                "releaseDate": "2014-10-01",
+                "osType": "linux",
+                "releaseNotes": "https://kb.vmware.com/kb/2091018"
+            },
+            {
+                "build": "2170515",
+                "fullName": "vCenter Server Appliance 5.5 Update 2a",
+                "releaseDate": "2014-10-01",
+                "osType": "linux",
+                "releaseNotes": "https://kb.vmware.com/kb/2091085"
+            },
+            {
+                "build": "2063318",
+                "fullName": "vCenter Server Appliance 5.5 Update 2",
+                "releaseDate": "2014-09-09",
+                "installerBuild": "2105955",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u2-release-notes.html"
+            },
+            {
+                "build": "2001466",
+                "fullName": "vCenter Server 5.5 Update 2",
+                "releaseDate": "2014-09-09",
+                "installerBuild": "2105955",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u2-release-notes.html"
+            },
+            {
+                "build": "1945274",
+                "fullName": "vCenter Server 5.5 Update 1c",
+                "releaseDate": "2014-07-22",
+                "installerBuild": "1945270",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u1c-release-notes.html"
+            },
+            {
+                "build": "1945271",
+                "fullName": "vCenter Server Appliance 5.5 Update 1c",
+                "releaseDate": "2014-07-22",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u1c-release-notes.html"
+            },
+            {
+                "build": "1923445",
+                "fullName": "vCenter Server Appliance 5.0 Update 3a",
+                "releaseDate": "2014-07-01",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u3a_rel_notes.html"
+            },
+            {
+                "build": "1917469",
+                "fullName": "vCenter Server 5.0 Update 3a",
+                "releaseDate": "2014-07-01",
+                "installerBuild": "1923446",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u3a_rel_notes.html"
+            },
+            {
+                "build": "1917404",
+                "fullName": "vCenter Server Appliance 5.1 Update 2a",
+                "releaseDate": "2014-07-07",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u2a-release-notes.html"
+            },
+            {
+                "build": "1891314",
+                "fullName": "vCenter Server Appliance 5.5 Update 1b",
+                "releaseDate": "2014-06-12",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u1b-release-notes.html"
+            },
+            {
+                "build": "1891313",
+                "fullName": "vCenter Server 5.5 Update 1b",
+                "releaseDate": "2014-06-12",
+                "installerBuild": "1891314",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u1b-release-notes.html"
+            },
+            {
+                "build": "1882349",
+                "fullName": "vCenter Server 5.1 Update 2a",
+                "releaseDate": "2014-07-07",
+                "installerBuild": "1917403",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u2a-release-notes.html"
+            },
+            {
+                "build": "1750787",
+                "fullName": "vCenter Server 5.5 Update 1a",
+                "releaseDate": "2014-04-19",
+                "installerBuild": "1750795",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u1a-release-notes.html"
+            },
+            {
+                "build": "1750781",
+                "fullName": "vCenter Server Appliance 5.5 Update 1a",
+                "releaseDate": "2014-04-19",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u1a-release-notes.html"
+            },
+            {
+                "build": "1750596",
+                "fullName": "vCenter Server 5.5c",
+                "releaseDate": "2014-04-19",
+                "installerBuild": "1750597",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-550c-release-notes.html"
+            },
+            {
+                "build": "1750593",
+                "fullName": "vCenter Server Appliance 5.5c",
+                "releaseDate": "2014-04-19",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-550c-release-notes.html"
+            },
+            {
+                "build": "1624811",
+                "fullName": "vCenter Server Appliance 5.5 Update 1",
+                "releaseDate": "2014-03-11",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u1-release-notes.html"
+            },
+            {
+                "build": "1623101",
+                "fullName": "vCenter Server 5.5 Update 1",
+                "releaseDate": "2014-03-11",
+                "installerBuild": "1623099",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-55u1-release-notes.html"
+            },
+            {
+                "build": "1476389",
+                "fullName": "vCenter Server Appliance 5.5b",
+                "releaseDate": "2013-12-22",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-550b-release-notes.html"
+            },
+            {
+                "build": "1476327",
+                "fullName": "vCenter Server 5.5b",
+                "releaseDate": "2013-12-22",
+                "installerBuild": "1476387",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-550b-release-notes.html"
+            },
+            {
+                "build": "1474364",
+                "fullName": "vCenter Server Appliance 5.1 Update 2",
+                "releaseDate": "2014-01-16",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u2-release-notes.html"
+            },
+            {
+                "build": "1473063",
+                "fullName": "vCenter Server 5.1 Update 2",
+                "releaseDate": "2014-01-16",
+                "installerBuild": "1474365",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u2-release-notes.html"
+            },
+            {
+                "build": "1398493",
+                "fullName": "vCenter Server Appliance 5.5a",
+                "releaseDate": "2013-10-31",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-550a-release-notes.html"
+            },
+            {
+                "build": "1378903",
+                "fullName": "vCenter Server 5.5a",
+                "releaseDate": "2013-10-31",
+                "installerBuild": "1378901",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-550a-release-notes.html"
+            },
+            {
+                "build": "1364079",
+                "fullName": "vCenter Server Appliance 5.1 Update 1c",
+                "releaseDate": "2013-10-30",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u1c-release-notes.html"
+            },
+            {
+                "build": "1364037",
+                "fullName": "vCenter Server 5.1 Update 1c",
+                "releaseDate": "2013-10-30",
+                "installerBuild": "1364042",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u1c-release-notes.html"
+            },
+            {
+                "build": "1312298",
+                "fullName": "vCenter Server 5.5",
+                "releaseDate": "2013-09-22",
+                "installerBuild": "1312299",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-esx-vcenter-server-55-release-notes.html"
+            },
+            {
+                "build": "1312297",
+                "fullName": "vCenter Server Appliance 5.5",
+                "releaseDate": "2013-09-22",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-esx-vcenter-server-55-release-notes.html"
+            },
+            {
+                "build": "1302764",
+                "fullName": "vCenter Server Appliance 5.0 Update 3",
+                "releaseDate": "2013-10-17",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u3_rel_notes.html"
+            },
+            {
+                "build": "1300600",
+                "fullName": "vCenter Server 5.0 Update 3",
+                "releaseDate": "2013-10-17",
+                "installerBuild": "1343691",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u3_rel_notes.html"
+            },
+            {
+                "build": "1235310",
+                "fullName": "vCenter Server Appliance 5.1 Update 1b",
+                "releaseDate": "2013-08-01",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u1b-release-notes.html"
+            },
+            {
+                "build": "1235232",
+                "fullName": "vCenter Server 5.1 Update 1b",
+                "releaseDate": "2013-08-01",
+                "installerBuild": "1235309",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u1b-release-notes.html"
+            },
+            {
+                "build": "1123965",
+                "fullName": "vCenter Server Appliance 5.1 Update 1a",
+                "releaseDate": "2013-05-22",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u1a-release-notes.html"
+            },
+            {
+                "build": "1123961",
+                "fullName": "vCenter Server 5.1 Update 1a",
+                "releaseDate": "2013-05-22",
+                "installerBuild": "1123966",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u1a-release-notes.html"
+            },
+            {
+                "build": "1065184",
+                "fullName": "vCenter Server Appliance 5.1 Update 1",
+                "releaseDate": "2013-04-25",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u1-release-notes.html"
+            },
+            {
+                "build": "1064983",
+                "fullName": "vCenter Server 5.1 Update 1",
+                "releaseDate": "2013-04-25",
+                "installerBuild": "1065152",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-51u1-release-notes.html"
+            },
+            {
+                "build": "947940",
+                "fullName": "vCenter Server Appliance 5.1b",
+                "releaseDate": "2012-12-20",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-510b-release-notes.html"
+            },
+            {
+                "build": "947673",
+                "fullName": "vCenter Server 5.1b",
+                "releaseDate": "2012-12-20",
+                "installerBuild": "947939",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-510b-release-notes.html"
+            },
+            {
+                "build": "934016",
+                "fullName": "vCenter Server 4.0 Update 4b",
+                "releaseDate": "2013-02-07",
+                "installerBuild": "934018",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "925676",
+                "fullName": "vCenter Server 4.1 U3a",
+                "releaseDate": "2013-01-31",
+                "installerBuild": "978694",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "920217",
+                "fullName": "vCenter Server Appliance 5.0 Update 2",
+                "releaseDate": "2012-12-20",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u2_rel_notes.html"
+            },
+            {
+                "build": "913577",
+                "fullName": "vCenter Server 5.0 Update 2",
+                "releaseDate": "2012-12-20",
+                "installerBuild": "923238",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u2_rel_notes.html"
+            },
+            {
+                "build": "880472",
+                "fullName": "vCenter Server Appliance 5.1a",
+                "releaseDate": "2012-11-19",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-510a-release-notes.html"
+            },
+            {
+                "build": "880146",
+                "fullName": "vCenter Server 5.1a",
+                "releaseDate": "2012-11-19",
+                "installerBuild": "880471",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-vcenter-server-510a-release-notes.html"
+            },
+            {
+                "build": "818020",
+                "fullName": "vCenter Server 4.0 Update 4a",
+                "releaseDate": "2012-09-13",
+                "installerBuild": "792836",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "816786",
+                "fullName": "vCenter Server 4.1 U3",
+                "releaseDate": "2012-08-30",
+                "installerBuild": "799345",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "804279",
+                "fullName": "vCenter Server Appliance 5.0 Update 1b",
+                "releaseDate": "2012-08-16",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u1b_rel_notes.html"
+            },
+            {
+                "build": "804277",
+                "fullName": "vCenter Server 5.0 Update 1b",
+                "releaseDate": "2012-08-16",
+                "installerBuild": "804276",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u1b_rel_notes.html"
+            },
+            {
+                "build": "799731",
+                "fullName": "vCenter Server 5.1",
+                "releaseDate": "2012-09-11",
+                "installerBuild": "799735",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-esx-vcenter-server-51-release-notes.html"
+            },
+            {
+                "build": "799730",
+                "fullName": "vCenter Server Appliance 5.1",
+                "releaseDate": "2012-09-11",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-esx-vcenter-server-51-release-notes.html"
+            },
+            {
+                "build": "759855",
+                "fullName": "vCenter Server Appliance 5.0 Update 1a",
+                "releaseDate": "2012-07-12",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u1a_rel_notes.html"
+            },
+            {
+                "build": "755629",
+                "fullName": "vCenter Server 5.0 Update 1a",
+                "releaseDate": "2012-07-12",
+                "installerBuild": "757163",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u1a_rel_notes.html"
+            },
+            {
+                "build": "623373",
+                "fullName": "vCenter Server 5.0 Update 1",
+                "releaseDate": "2012-03-15",
+                "installerBuild": "639890",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsp_vc50_u1_rel_notes.html"
+            },
+            {
+                "build": "598800",
+                "fullName": "VirtualCenter 2.5.0 U6b",
+                "releaseDate": "2012-03-08",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "496403",
+                "fullName": "vCenter Server 4.0 U4",
+                "releaseDate": "2011-11-17",
+                "installerBuild": "502539",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "491557",
+                "fullName": "vCenter Server 4.1 U2",
+                "releaseDate": "2011-10-27",
+                "installerBuild": "493063",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "472350",
+                "fullName": "vCenter Server Appliance 5.0",
+                "releaseDate": "2011-08-24",
+                "osType": "linux",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-esx-vcenter-server-50-release-notes.html"
+            },
+            {
+                "build": "455964",
+                "fullName": "vCenter Server 5.0",
+                "releaseDate": "2011-08-24",
+                "installerBuild": "456005",
+                "osType": "windows",
+                "releaseNotes": "https://www.vmware.com/support/vsphere5/doc/vsphere-esx-vcenter-server-50-release-notes.html"
+            },
+            {
+                "build": "385281",
+                "fullName": "vCenter Server 4.0 U3",
+                "releaseDate": "2011-05-05",
+                "installerBuild": "387869",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "345043",
+                "fullName": "vCenter Server 4.1 U1",
+                "releaseDate": "2011-02-10",
+                "installerBuild": "345042",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "341471",
+                "fullName": "VirtualCenter 2.5.0 U6a",
+                "releaseDate": "2011-05-05",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "275390",
+                "fullName": "vCenter Server 4.1 (KB1023962)",
+                "releaseDate": "2010-07-19",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "258902",
+                "fullName": "vCenter Server 4.1",
+                "releaseDate": "2010-07-13",
+                "installerBuild": "259021",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "258672",
+                "fullName": "vCenter Server 4.0 U2",
+                "releaseDate": "2010-06-10",
+                "installerBuild": "264050",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "227640",
+                "fullName": "VirtualCenter 2.5.0 U6 Localized",
+                "releaseDate": "2010-01-29",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "227637",
+                "fullName": "VirtualCenter 2.5.0 U6 English",
+                "releaseDate": "2010-01-29",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "208111",
+                "fullName": "vCenter Server 4.0 U1",
+                "releaseDate": "2010-11-19",
+                "installerBuild": "208156",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "183347",
+                "fullName": "vCenter Server 4.0 Patch 1",
+                "releaseDate": "2010-02-25",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "174835",
+                "fullName": "VirtualCenter 2.5.0 U5 Localized",
+                "releaseDate": "2009-07-10",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "174768",
+                "fullName": "VirtualCenter 2.5.0 U5 English",
+                "releaseDate": "2009-07-10",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "162856",
+                "fullName": "vCenter Server 4.0",
+                "releaseDate": "2009-05-21",
+                "installerBuild": "162902",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "147704",
+                "fullName": "VirtualCenter 2.5.0 U4 Localized",
+                "releaseDate": "2009-02-23",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "147697",
+                "fullName": "VirtualCenter 2.5.0 U4 German",
+                "releaseDate": "2009-02-23",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "147633",
+                "fullName": "VirtualCenter 2.5.0 U4 English",
+                "releaseDate": "2009-02-23",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "119598",
+                "fullName": "VirtualCenter 2.5.0 U3",
+                "releaseDate": "2008-10-03",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "104215",
+                "fullName": "VirtualCenter 2.5.0 U2",
+                "releaseDate": "2008-07-25",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "84767",
+                "fullName": "VirtualCenter 2.5.0 U1",
+                "releaseDate": "2008-04-10",
+                "osType": "windows",
+                "releaseNotes": ""
+            },
+            {
+                "build": "64192",
+                "fullName": "VirtualCenter 2.5.0",
+                "releaseDate": "2007-12-10",
+                "osType": "windows",
+                "releaseNotes": ""
+            }
+        ]
+    },
+    "totalCount": 153
+}

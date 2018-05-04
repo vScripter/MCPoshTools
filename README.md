@@ -1,6 +1,6 @@
 # MCPoshTools PowerShell Module
 
-MCPoshTools is a collection of functions that were written to aid in the support of CSRA internal as well as client systems and environments.
+MCPoshTools is a collection of functions that were written to aid in the support of varios systems and environments..
 
 ## Contributing
 

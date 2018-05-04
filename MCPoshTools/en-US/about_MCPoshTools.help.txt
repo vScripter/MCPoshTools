@@ -1,0 +1,31 @@
+TOPIC
+    about_MCPoshTools
+
+SHORT DESCRIPTION
+
+    MCPoshTools is a collection of functions that were written to aid in the support of varios systems and environments.
+
+LONG DESCRIPTION
+	MCPoshTools is a collection of functions that were written to aid in the support of varios systems and environments.
+
+    It may contain some cmdlets that pertain to certain clients. While all efforts have been put forth to create generic tools that do not hard-code values, sometimes it cannot be avoided. Functions/cmdlets
+    that must be specific to a customer will have a one, two or multi-letter prefix to the command 'noun'. See below for a table of definitions:
+
+POWERSHELL COMPATIBILITY
+    This module is written to support PowerShell V3, and newer.
+
+    It has been tested against PowerShell Versions:
+    3.0
+    4.0
+    5.0
+
+FEEDBACK
+    Feedback and help will be provided by the people below:
+
+        Kevin Kirkpatrick (Creator/Author)  kevin@nullzero.io
+
+
+CONTRIBUTING TO MCPoshTools
+    Please contact the same people in the 'FEEDBACK' section for detail on how to contribute
+
+SEE ALSO

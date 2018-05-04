@@ -1,0 +1,39 @@
+[
+    {
+        "vcenterServer": [
+            {
+                "computername": "mgmt01.example.com",
+                "ipv4address":  "192.168.1.10",
+                "region":       "nyc.payload1",
+                "tenant":       "Example",
+                "description":  "NYC payload-1 vCenter server"
+            },
+            {
+                "computername": "mgmt02.example.com",
+                "ipv4address":  "192.168.1.10",
+                "region":       "nyc.payload2",
+                "tenant":       "Example",
+                "description":  "NYC payload-2 vCenter server"
+            }
+        ],
+        "jumpServer": [
+            {
+                "computername": "mgmt01.example.com",
+                "ipv4address":  "192.168.1.10",
+                "region":       "nyc.payload1",
+                "tenant":       "Example",
+                "description":  "NYC payload-1 management/jump server"
+            },
+            {
+                "computername": "mgmt02.example.com",
+                "ipv4address":  "192.168.1.10",
+                "region":       "nyc.payload2",
+                "tenant":       "Example",
+                "description":  "NYC payload-2 management/jump server"
+            }
+        ],
+        "lastUpdate":    "",
+        "lastUpdatedBy": "",
+        "_comment":      "Modify this file according to desired details about vCenter and Management Servers in your environment"
+    }
+]

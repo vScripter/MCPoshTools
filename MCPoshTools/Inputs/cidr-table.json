@@ -1,0 +1,194 @@
+[
+    {
+        "cidrlength":  "1",
+        "mask":  "128.0.0.0",
+        "numnetworks":  "128 a",
+        "numhosts":  "2,147,483,392"
+    },
+    {
+        "cidrlength":  "2",
+        "mask":  "192.0.0.0",
+        "numnetworks":  "64 a",
+        "numhosts":  "1,073,741,696"
+    },
+    {
+        "cidrlength":  "3",
+        "mask":  "224.0.0.0",
+        "numnetworks":  "32 a",
+        "numhosts":  "536,870,848"
+    },
+    {
+        "cidrlength":  "4",
+        "mask":  "240.0.0.0",
+        "numnetworks":  "16 a",
+        "numhosts":  "268,435,424"
+    },
+    {
+        "cidrlength":  "5",
+        "mask":  "248.0.0.0",
+        "numnetworks":  "8 a",
+        "numhosts":  "134,217,712"
+    },
+    {
+        "cidrlength":  "6",
+        "mask":  "252.0.0.0",
+        "numnetworks":  "4 a",
+        "numhosts":  "67,108,856"
+    },
+    {
+        "cidrlength":  "7",
+        "mask":  "254.0.0.0",
+        "numnetworks":  "2 a",
+        "numhosts":  "33,554,428"
+    },
+    {
+        "cidrlength":  "8",
+        "mask":  "255.0.0.0",
+        "numnetworks":  "1 a",
+        "numhosts":  "16,777,214"
+    },
+    {
+        "cidrlength":  "9",
+        "mask":  "255.128.0.0",
+        "numnetworks":  "128 b",
+        "numhosts":  "8,388,352"
+    },
+    {
+        "cidrlength":  "10",
+        "mask":  "255.192.0.0",
+        "numnetworks":  "64 b",
+        "numhosts":  "4,194,176"
+    },
+    {
+        "cidrlength":  "11",
+        "mask":  "255.224.0.0",
+        "numnetworks":  "32 b",
+        "numhosts":  "2,097,088"
+    },
+    {
+        "cidrlength":  "12",
+        "mask":  "255.240.0.0",
+        "numnetworks":  "16 b",
+        "numhosts":  "1,048,544"
+    },
+    {
+        "cidrlength":  "13",
+        "mask":  "255.248.0.0",
+        "numnetworks":  "8 b",
+        "numhosts":  "524,272"
+    },
+    {
+        "cidrlength":  "14",
+        "mask":  "255.252.0.0",
+        "numnetworks":  "4 b",
+        "numhosts":  "262,136"
+    },
+    {
+        "cidrlength":  "15",
+        "mask":  "255.254.0.0",
+        "numnetworks":  "2 b",
+        "numhosts":  "131,068"
+    },
+    {
+        "cidrlength":  "16",
+        "mask":  "255.255.0.0",
+        "numnetworks":  "1 b",
+        "numhosts":  "65,024"
+    },
+    {
+        "cidrlength":  "17",
+        "mask":  "255.255.128.0",
+        "numnetworks":  "128 c",
+        "numhosts":  "32,512"
+    },
+    {
+        "cidrlength":  "18",
+        "mask":  "255.255.192.0",
+        "numnetworks":  "64 c",
+        "numhosts":  "16,256"
+    },
+    {
+        "cidrlength":  "19",
+        "mask":  "255.255.224.0",
+        "numnetworks":  "32 c",
+        "numhosts":  "8,128"
+    },
+    {
+        "cidrlength":  "20",
+        "mask":  "255.255.240.0",
+        "numnetworks":  "16 c",
+        "numhosts":  "4,064"
+    },
+    {
+        "cidrlength":  "21",
+        "mask":  "255.255.248.0",
+        "numnetworks":  "8 c",
+        "numhosts":  "2,032"
+    },
+    {
+        "cidrlength":  "22",
+        "mask":  "255.255.252.0",
+        "numnetworks":  "4 c",
+        "numhosts":  "1,016"
+    },
+    {
+        "cidrlength":  "23",
+        "mask":  "255.255.254.0",
+        "numnetworks":  "2 c",
+        "numhosts":  "508"
+    },
+    {
+        "cidrlength":  "24",
+        "mask":  "255.255.255.0",
+        "numnetworks":  "1 c",
+        "numhosts":  "254"
+    },
+    {
+        "cidrlength":  "25",
+        "mask":  "255.255.255.128",
+        "numnetworks":  "2 subnets",
+        "numhosts":  "126"
+    },
+    {
+        "cidrlength":  "26",
+        "mask":  "255.255.255.192",
+        "numnetworks":  "4 subnets",
+        "numhosts":  "62"
+    },
+    {
+        "cidrlength":  "27",
+        "mask":  "255.255.255.224",
+        "numnetworks":  "8 subnets",
+        "numhosts":  "30"
+    },
+    {
+        "cidrlength":  "28",
+        "mask":  "255.255.255.240",
+        "numnetworks":  "16 subnets",
+        "numhosts":  "14"
+    },
+    {
+        "cidrlength":  "29",
+        "mask":  "255.255.255.248",
+        "numnetworks":  "32 subnets",
+        "numhosts":  "6"
+    },
+    {
+        "cidrlength":  "30",
+        "mask":  "255.255.255.252",
+        "numnetworks":  "64 subnets",
+        "numhosts":  "2"
+    },
+    {
+        "cidrlength":  "31",
+        "mask":  "255.255.255.254",
+        "numnetworks":  "none",
+        "numhosts":  "none"
+    },
+    {
+        "cidrlength":  "32",
+        "mask":  "255.255.255.255",
+        "numnetworks":  "1/256 c",
+        "numhosts":  "1"
+    }
+]
