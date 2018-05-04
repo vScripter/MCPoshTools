@@ -1,4 +1,4 @@
-function Get-CSLocalGroupMember {
+function Get-MCLocalGroupMember {
 
     <#
     .SYNOPSIS
@@ -124,4 +124,4 @@ function Get-CSLocalGroupMember {
 
     } # end END block
 
-} # end function Get-CSLocalGroupMember
+} # end function Get-MCLocalGroupMember
