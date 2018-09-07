@@ -1,8 +1,162 @@
 {
-    "timestamp": 1507299395,
-    "jsonUpdatedTime": "Fri, 06 Oct 17 16:16:35 +0200",
+    "timestamp": 1525416261,
+    "jsonUpdatedTime": "Fri, 04 May 18 08:44:21 +0200",
     "data": {
         "esxiReleases": [
+            {
+                "build": "8294253",
+                "minorRelease": "6.5",
+                "updateRelease": "ESXi 6.5 U2",
+                "releaseLevel": "VMware ESXi 6.5.0 Update 2",
+                "releaseFullName": "VMware ESXi 6.5.0 build-8294253",
+                "friendlyName": "ESXi 6.5 Update 2",
+                "patchRelease": "ESXi650-update2",
+                "releaseDate": "2018-05-03",
+                "imageProfile": "ESXi-6.5.0-20180502001-standard"
+            },
+            {
+                "build": "8285314",
+                "minorRelease": "6.5",
+                "updateRelease": "ESXi 6.5 U2",
+                "releaseLevel": "VMware ESXi 6.5.0 Update 2",
+                "releaseFullName": "VMware ESXi 6.5.0 build-8285314",
+                "friendlyName": "ESXi 6.5 Update 2 (Security only)",
+                "patchRelease": "ESXi650-update2",
+                "releaseDate": "2018-05-03",
+                "imageProfile": "ESXi-6.5.0-20180501001s-standard"
+            },
+            {
+                "build": "8169922",
+                "minorRelease": "6.7",
+                "updateRelease": "ESXi 6.7",
+                "releaseLevel": "VMware ESXi 6.7.0 GA",
+                "releaseFullName": "VMware ESXi 6.7.0 build-8169922",
+                "friendlyName": "ESXi 6.7 GA",
+                "patchRelease": "",
+                "releaseDate": "2018-04-17",
+                "imageProfile": "ESXi-6.7.0-8169922-standard"
+            },
+            {
+                "build": "7967664",
+                "minorRelease": "6.0",
+                "updateRelease": "ESXi 6.0 U3",
+                "releaseLevel": "VMware ESXi 6.0.0 Update 3",
+                "releaseFullName": "VMware ESXi 6.0.0 build-7967664",
+                "friendlyName": "ESXi 6.0 U3 VMSA-2018-0004.3*",
+                "patchRelease": "ESXi600-201803001",
+                "releaseDate": "2018-03-20",
+                "imageProfile": "ESXi-6.0.0-20180304001-standard"
+            },
+            {
+                "build": "7967591",
+                "minorRelease": "6.5",
+                "updateRelease": "ESXi 6.5 U1",
+                "releaseLevel": "VMware ESXi 6.5.0 Update 1",
+                "releaseFullName": "VMware ESXi 6.5.0 build-7967591",
+                "friendlyName": "ESXi 6.5 U1 VMSA-2018-0004.3*",
+                "patchRelease": "ESXi650-201803001",
+                "releaseDate": "2018-03-20",
+                "imageProfile": "ESXi-6.5.0-20180304001-standard"
+            },
+            {
+                "build": "7967571",
+                "minorRelease": "5.5",
+                "updateRelease": "ESXi 5.5 U3",
+                "releaseLevel": "VMware ESXi 5.5.0 Update 3",
+                "releaseFullName": "VMware ESXi 5.5.0 build-7967571",
+                "friendlyName": "ESXi 5.5 U3 VMSA-2018-0004.3*",
+                "patchRelease": "ESXi550-201803001",
+                "releaseDate": "2018-03-20",
+                "imageProfile": "ESXi-5.5.0-20180304001-standard"
+            },
+            {
+                "build": "7618464",
+                "minorRelease": "5.5",
+                "updateRelease": "ESXi 5.5 U3",
+                "releaseLevel": "VMware ESXi 5.5.0 Update 3",
+                "releaseFullName": "VMware ESXi 5.5.0 build-7618464",
+                "friendlyName": "ESXi 5.5 U3h",
+                "patchRelease": "ESXi550-201801002",
+                "releaseDate": "2018-01-22",
+                "imageProfile": "ESXi-5.5.0-20180103001-standard"
+            },
+            {
+                "build": "7526125",
+                "minorRelease": "6.5",
+                "updateRelease": "ESXi 6.5 U1",
+                "releaseLevel": "VMware ESXi 6.5.0 Update 1",
+                "releaseFullName": "VMware ESXi 6.5.0 build-7526125",
+                "friendlyName": "ESXi 6.5 U1e (Recalled)",
+                "patchRelease": "ESXi650-201801001",
+                "releaseDate": "2018-01-09",
+                "imageProfile": "ESXi-6.5.0-20180104001-standard"
+            },
+            {
+                "build": "7504637",
+                "minorRelease": "6.0",
+                "updateRelease": "ESXi 6.0 U3",
+                "releaseLevel": "VMware ESXi 6.0.0 Update 3",
+                "releaseFullName": "VMware ESXi 6.0.0 build-7504637",
+                "friendlyName": "ESXi 6.0 U3d (Recalled)",
+                "patchRelease": "ESXi600-201801001",
+                "releaseDate": "2018-01-09",
+                "imageProfile": "ESXi-6.0.0-20180104001-standard"
+            },
+            {
+                "build": "7504623",
+                "minorRelease": "5.5",
+                "updateRelease": "ESXi 5.5 U3",
+                "releaseLevel": "VMware ESXi 5.5.0 Update 3",
+                "releaseFullName": "VMware ESXi 5.5.0 build-7504623",
+                "friendlyName": "ESXi 5.5 U3g (Recalled)",
+                "patchRelease": "ESXi550-201801001",
+                "releaseDate": "2018-01-09",
+                "imageProfile": "ESXi-5.5.0-20180104001-standard"
+            },
+            {
+                "build": "7388607",
+                "minorRelease": "6.5",
+                "updateRelease": "ESXi 6.5 U1",
+                "releaseLevel": "VMware ESXi 6.5.0 Update 1",
+                "releaseFullName": "VMware ESXi 6.5.0 build-7388607",
+                "friendlyName": "ESXi 6.5 Patch 2",
+                "patchRelease": "ESXi650-201712001",
+                "releaseDate": "2017-12-19",
+                "imageProfile": "ESXi-6.5.0-20171204001-standard"
+            },
+            {
+                "build": "7273056",
+                "minorRelease": "6.5",
+                "updateRelease": "ESXi 6.5 U1",
+                "releaseLevel": "VMware ESXi 6.5.0 Update 1",
+                "releaseFullName": "VMware ESXi 6.5.0 build-7273056",
+                "friendlyName": "ESXi 6.5 Patch 2 (Security only)",
+                "patchRelease": "ESXi650-201712001",
+                "releaseDate": "2017-12-19",
+                "imageProfile": "ESXi-6.5.0-20171201001s-standard"
+            },
+            {
+                "build": "6921384",
+                "minorRelease": "6.0",
+                "updateRelease": "ESXi 6.0 U3",
+                "releaseLevel": "VMware ESXi 6.0.0 Update 3",
+                "releaseFullName": "VMware ESXi 6.0.0 build-6921384",
+                "friendlyName": "ESXi 6.0 Patch 6",
+                "patchRelease": "ESXi600-201711001",
+                "releaseDate": "2017-11-09",
+                "imageProfile": "ESXi-6.0.0-20171104001-standard"
+            },
+            {
+                "build": "6856897",
+                "minorRelease": "6.0",
+                "updateRelease": "ESXi 6.0 U3",
+                "releaseLevel": "VMware ESXi 6.0.0 Update 3",
+                "releaseFullName": "VMware ESXi 6.0.0 build-6856897",
+                "friendlyName": "ESXi 6.0 Patch 6 (Security Only)",
+                "patchRelease": "ESXi600-201711001",
+                "releaseDate": "2017-11-09",
+                "imageProfile": "ESXi-6.0.0-20171101001s-standard"
+            },
             {
                 "build": "6765664",
                 "minorRelease": "6.5",
@@ -30,8 +184,8 @@
                 "minorRelease": "5.5",
                 "updateRelease": "ESXi 5.5 U3",
                 "releaseLevel": "VMware ESXi 5.5.0 Update 3",
-                "releaseFullName": "VMware ESXi 5.5.0 build-6480267",
-                "friendlyName": "ESXi 5.5f*",
+                "releaseFullName": "VMware ESXi 5.5.0 build-6480324",
+                "friendlyName": "ESXi 5.5 Patch 11",
                 "patchRelease": "ESXi550-201709001",
                 "releaseDate": "2017-09-14",
                 "imageProfile": "ESXi-5.5.0-20170904001-standard"
@@ -42,7 +196,7 @@
                 "updateRelease": "ESXi 5.5 U3",
                 "releaseLevel": "VMware ESXi 5.5.0 Update 3",
                 "releaseFullName": "VMware ESXi 5.5.0 build-6480267",
-                "friendlyName": "ESXi 5.5f (Security only)*",
+                "friendlyName": "ESXi 5.5 Patch 11 (Security only)",
                 "patchRelease": "ESXi550-201709001",
                 "releaseDate": "2017-09-14",
                 "imageProfile": "ESXi-5.5.0-20170901001s-standard"
@@ -2073,5 +2227,5 @@
             }
         ]
     },
-    "totalCount": 188
+    "totalCount": 202
 }

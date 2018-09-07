@@ -19,13 +19,13 @@ function Get-VMHostNetworkConfiguration {
 .EXAMPLE
     Get-Cluster 'Prod Cluster' | Get-VMHost | Get-VMHostNetworkConfiguration | Export-Csv C:\VMHostNICReport.csv -NoTypeInformation
 .NOTES
-    Author: Kevin Kirkpatrick (CSC)
-      Email: See About_MCPoshTools for contact information
+    Author: Kevin Kirkpatrick
+    Email: See About_MCPoshTools for contact information
     Version: 2.1
-      Last Updated: 20180501
+    Last Updated: 20180501
     Last Updated By: K. Kirkpatrick
-      Last Update Notes:
-       - Added 7 new properties to show which vmk interfaces are being tagged for a specific traffic/service type
+    Last Update Notes:
+    - Added 7 new properties to show which vmk interfaces are being tagged for a specific traffic/service type
 
 #>
 
